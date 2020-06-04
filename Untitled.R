@@ -1,1 +1,1 @@
-##This is s markdown file
+print("This file was created within RStudio")
